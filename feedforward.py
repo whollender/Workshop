@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import lasagne
 from lasagne import layers
 
